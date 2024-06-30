@@ -1,0 +1,13 @@
+nav {
+  border: 1px solid white;
+  background-color: blue;
+  color: white;
+}
+
+#list1,
+li,
+a {
+  color: white;
+}
+
+li {}
