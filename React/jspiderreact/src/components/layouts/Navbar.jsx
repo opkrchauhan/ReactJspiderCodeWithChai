@@ -1,9 +1,11 @@
 import React from "react";
+import Home from "./Home.jsx";
 
 function Navbar() {
   return (
     <>
-      <div style={"background color : pink"}>Navbar</div>
+      <Home />
+      <div>Navbar</div>
     </>
   );
 }
